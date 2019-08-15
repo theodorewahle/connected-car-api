@@ -1,0 +1,1 @@
+export { gm } from './gm'
